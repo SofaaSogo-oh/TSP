@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "55733f43ad0882b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "31d2f2d2010999d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a251bf5d6b8ec1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "1db6b8e86e377c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Характеристики СП/Взаимная корреляционная функция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Взаимная корреляционная функция"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "784304c388073cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8dbd0a12404e540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06449d24cc95dbef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "85ea4a7b16d4282e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "49aa8e0908aadb27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f12b19fdafe42ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb076d3dc265cb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8caeafd70eb92e0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "538b5bdef4100ada",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "285431aaa1794e84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d42eeeff61faec68",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fe8309bf8979212f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "06449d24cc95dbef",
+  "lastOpenFiles": [
+    "Семиинварианты",
+    "Характеристики СП/Взаимная корреляционная функция.md",
+    "Характеристики СП/Линейная связь между СП.md",
+    "Характеристики СП/Характеристики СП.md",
+    "Характеристики СП/Корреляционная функция СП.md",
+    "Характеристики СП/Дисперсия СП.md",
+    "Характеристики СП/Ковариационная функция.md",
+    "Excalidraw/Связь корреляционных функций.md",
+    "Без названия.base",
+    "Excalidraw/Перестановка аргументов взаимной корреляционной функции.md",
+    "Excalidraw/согласованность сп.md",
+    "Excalidraw/Взаимная корреляция.md",
+    "Excalidraw/Симметрия Корреляционной формулы.md",
+    "Excalidraw/симметричность сп.md",
+    "Excalidraw/Связь корреляционной и ковариационной формул.md",
+    "Excalidraw/Реализации и срезы.md",
+    "Excalidraw/Распределение СП.md",
+    "Excalidraw/одни моменты, разные структуры.md",
+    "Excalidraw/Неизменность корреляции суммы.md",
+    "Excalidraw/Корреляция произведения.md",
+    "Excalidraw/Корреляционная формула и дисперсия.md",
+    "Характеристики СП/Свойства корреляционной функции.md",
+    "Характеристики СП/Математическое ожидание.md",
+    "Случайный процесс/n-мерная функция распределения.md",
+    "Случайный процесс/Случайные процессы.md",
+    "Случайный процесс/Случайные величины.md",
+    "Характеристики СП/Математическое ожидание СП.md",
+    "Характеристики СП",
+    "Случайный процесс",
+    "Excalidraw",
+    "Без названия.canvas"
+  ]
+}
